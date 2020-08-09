@@ -7029,7 +7029,7 @@ button.bg-dark:focus {
   color: #DEB992  !important; }
 
 .text-primary {
-  color: #1ba098 !important; }
+  color: #DEB992 /*#1ba098 */ !important; }
 
 a.text-primary:hover, a.text-primary:focus {
   color: #105f5a !important; }
